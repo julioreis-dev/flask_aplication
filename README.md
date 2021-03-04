@@ -1,0 +1,1 @@
+Repositorio desenvolvido para as aplicações flask desenvolvidas.
